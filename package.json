@@ -9,8 +9,18 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fontsource/poppins": "^4.5.10",
+    "@nextui-org/react": "^1.0.0-beta.12",
+    "aos": "^2.3.4",
+    "bootstrap": "^5.2.3",
     "next": "13.2.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-bootstrap": "^2.7.2",
+    "react-countup": "^6.4.1",
+    "react-dom": "18.2.0",
+    "react-floating-whatsapp": "^5.0.8",
+    "react-icons": "^4.8.0",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1"
   }
 }
